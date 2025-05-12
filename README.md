@@ -65,28 +65,34 @@ TUTORIAL - https://github.com/intannperm/Monad-Bot/blob/master/README.md
 
 ## Installation
 
-1. Clone the repository
+1. Update Sistem
+   ```bash
+   sudo apt update
+   sudo apt install python3-tk
+   ```
+
+2. Clone the repository
 ```bash
 git clone https://github.com/intannperm/Monad-Bot
 cd Monad-Bot
 ```
 
-2. Install dependencies
+3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Configure the bot by starting it (py main.py) and choosing the edit config option`
+4. Configure the bot by starting it (py main.py) and choosing the edit config option`
 ![image](https://github.com/user-attachments/assets/0d887865-049b-4804-9e11-ffc80ae21ce3)
 
 ```
 
-4. Add your data to the following files:
+5. Add your data to the following files:
 - `data/private_keys.txt` - One private key per line
 - `data/proxies.txt` - One proxy per line (format: `user:pass@ip:port`)
 
 
-5. Run the bot
+6. Run the bot
 ```bash
-python main.py
+python main.py / python3 main.py
 ```
