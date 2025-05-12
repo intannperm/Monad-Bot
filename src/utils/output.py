@@ -73,10 +73,10 @@ def show_dev_info():
     table.add_row("👤 Dev: [link]https://github.com/intannperm[/link]")
     table.add_row("💬 Chat: [link]https://github.com/intannperm[/link]")
     table.add_row(
-        "📚 Tutorial: [link]https://star-labs.gitbook.io/star-labs/monad-eng[/link]"
+        "📚 Tutorial: [link]https://github.com/intannperm/Monad-Bot/blob/master/README.md[/link]"
     )
     table.add_row(
-        "🎥 Video Guide: [link]https://www.youtube.com/watch?v=48kfCJhjsaI[/link]"
+        "🎥 Video Guide: [link]https://github.com/intannperm/Monad-Bot/blob/master/README.md[/link]"
     )
     table.add_row("")
 
