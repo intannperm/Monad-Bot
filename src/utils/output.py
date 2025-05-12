@@ -69,9 +69,9 @@ def show_dev_info():
     table.add_row("✨ StarLabs Monad Bot 1.8 ✨")
     table.add_row("─" * 43)
     table.add_row("")
-    table.add_row("⚡ GitHub: [link]https://github.com/0xStarLabs[/link]")
-    table.add_row("👤 Dev: [link]https://t.me/StarLabsTech[/link]")
-    table.add_row("💬 Chat: [link]https://t.me/StarLabsChat[/link]")
+    table.add_row("⚡ GitHub: [link]https://github.com/intannperm[/link]")
+    table.add_row("👤 Dev: [link]https://github.com/intannperm[/link]")
+    table.add_row("💬 Chat: [link]https://github.com/intannperm[/link]")
     table.add_row(
         "📚 Tutorial: [link]https://star-labs.gitbook.io/star-labs/monad-eng[/link]"
     )
