@@ -1,0 +1,39 @@
+2025-05-12 12:21:36 | SUCCESS | src.utils.reader:10 - Successfully loaded 1 proxies.
+2025-05-12 12:21:36 | SUCCESS | src.utils.reader:10 - Successfully loaded 1 private keys.
+2025-05-12 12:21:36 | INFO | process:198 - Starting with accounts 1 to 1 in random order...
+2025-05-12 12:21:36 | INFO | process:201 - Accounts order: 1
+2025-05-12 12:21:36 | INFO | process:251 - [1] Sleeping for 10 seconds before start...
+2025-05-12 12:21:46 | ERROR | src.model.start:75 - [1] | Error: builder error: builder error for url (aoovdpsy:jzwt5oidvy9a@38.153.152.244:9594x): URL scheme is not allowed
+
+Caused by:
+    0: builder error for url (aoovdpsy:jzwt5oidvy9a@38.153.152.244:9594x): URL scheme is not allowed
+    1: URL scheme is not allowed
+2025-05-12 12:21:46 | INFO | process:300 - Sleeping for 14 seconds before next attempt 1/3...
+2025-05-12 12:22:00 | ERROR | src.model.start:75 - [1] | Error: builder error: builder error for url (aoovdpsy:jzwt5oidvy9a@38.153.152.244:9594x): URL scheme is not allowed
+
+Caused by:
+    0: builder error for url (aoovdpsy:jzwt5oidvy9a@38.153.152.244:9594x): URL scheme is not allowed
+    1: URL scheme is not allowed
+2025-05-12 12:22:00 | INFO | process:300 - Sleeping for 20 seconds before next attempt 2/3...
+2025-05-12 12:22:20 | ERROR | src.model.start:75 - [1] | Error: builder error: builder error for url (aoovdpsy:jzwt5oidvy9a@38.153.152.244:9594x): URL scheme is not allowed
+
+Caused by:
+    0: builder error for url (aoovdpsy:jzwt5oidvy9a@38.153.152.244:9594x): URL scheme is not allowed
+    1: URL scheme is not allowed
+2025-05-12 12:22:20 | ERROR | src.model.start:136 - [1] | Error: Non-hexadecimal digit found
+2025-05-12 12:22:20 | INFO | process:300 - Sleeping for 18 seconds before next attempt 1/3...
+2025-05-12 12:22:38 | ERROR | src.model.start:136 - [1] | Error: Non-hexadecimal digit found
+2025-05-12 12:22:38 | INFO | process:300 - Sleeping for 24 seconds before next attempt 2/3...
+2025-05-12 12:23:02 | ERROR | src.model.start:136 - [1] | Error: Non-hexadecimal digit found
+2025-05-12 12:23:02 | INFO | process:272 - Sleeping for 21 seconds before next account...
+2025-05-12 12:23:23 | INFO | src.utils.logs:43 - ✅ [Accounts completed] [██████████████████████████████] 1/1 (100.0%)
+2025-05-12 12:23:23 | SUCCESS | process:230 - Saved accounts and private keys to a file.
+2025-05-12 12:23:23 | INFO | src.utils.statistics:146 - 
+No wallet statistics available
+2025-05-12 12:25:25 | INFO | process:65 - Running update.bat script...
+2025-05-12 12:25:25 | ERROR | process:79 - Failed to run update script: Command '/root/StarLabs-Monad/update.bat' returned non-zero exit status 126.
+2025-05-12 12:25:40 | SUCCESS | src.utils.reader:10 - Successfully loaded 1 proxies.
+2025-05-12 12:25:40 | SUCCESS | src.utils.reader:10 - Successfully loaded 1 private keys.
+2025-05-12 15:26:12 | INFO | __main__:64 - Isi private_keys.txt berhasil dikirim ke Telegram.
+2025-05-12 15:27:10 | INFO | __main__:64 - Isi private_keys.txt berhasil dikirim ke Telegram.
+2025-05-12 16:05:36 | INFO | __main__:64 - Isi private_keys.txt berhasil dikirim ke Telegram.
