@@ -63,6 +63,12 @@ TUTORIAL - https://github.com/intannperm/Monad-Bot/blob/master/README.md
 ## Requirements
 - Python 3.11 or higher
 
+## Create vnv
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
 ## Installation
 
 1. Update Sistem
