@@ -2,7 +2,7 @@
 
 This tool automates interactions with the Monad testnet, including various DeFi operations and token interactions.
 
-TUTORIAL - https://star-labs.gitbook.io/star-labs/monad-eng
+TUTORIAL - https://github.com/intannperm/Monad-Bot/blob/master/README.md
 
 # All features are available in config:
 "crusty_refuel" - buy testnet monad from this bridge https://www.crustyswap.com/
@@ -67,8 +67,8 @@ TUTORIAL - https://star-labs.gitbook.io/star-labs/monad-eng
 
 1. Clone the repository
 ```bash
-git clone https://github.com/0xStarLabs/StarLabs-Monad.git
-cd StarLabs-Monad
+git clone https://github.com/intannperm/Monad-Bot
+cd Monad-Bot
 ```
 
 2. Install dependencies
@@ -90,7 +90,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-## Support
-- Telegram: https://t.me/StarLabsTech
-- Chat: https://t.me/StarLabsChat
